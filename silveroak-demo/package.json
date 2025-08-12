@@ -1,7 +1,12 @@
+
+"scripts": {
+  "start": "node server.js"
+}
+
 {
   "name": "silveroak-demo",
   "version": "1.0.0",
-  "description": "Demo investment site",
+  "description": "SilverOak Investments demo application with form submissions stored in SQLite",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -14,6 +19,6 @@
   },
   "engines": {
     "node": ">=18.x"
-  }
+  },
+  "license": "MIT"
 }
-
